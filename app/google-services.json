@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125428939894",
+    "firebase_url": "https://social-media-app-aca-default-rtdb.firebaseio.com",
+    "project_id": "social-media-app-aca",
+    "storage_bucket": "social-media-app-aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125428939894:android:b4efeccc466a1c0bf73357",
+        "android_client_info": {
+          "package_name": "com.example.instagramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125428939894-9o1id7ik506df02ms328nothnltr7p4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wOT9zk_gPY5hL461XuwS9AisMvvLPRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125428939894-9o1id7ik506df02ms328nothnltr7p4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
