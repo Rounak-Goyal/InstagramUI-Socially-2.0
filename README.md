@@ -1,6 +1,6 @@
 # InstagramUI_cloneApp<br>
 Instagram clone app with kotlin<br>
-Firebase Auth and realtime database<hr>
+Firebase and realtime database<hr>
 <span><img src="Images/1.jpg"/> Login <img src="Images/2.jpg"/></span><hr>
 <span><img src="Images/4.jpg"/> Home <img src="Images/5.jpg"/></span><hr>
 <span><img src="Images/5.jpg"/> Profile <img src="Images/6.jpg"/> <hr>
